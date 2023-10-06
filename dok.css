@@ -1,0 +1,8 @@
+.textuurit {
+    font-size: 150px; 
+    color: black; 
+    transition: 2s;
+} 
+.textuurit:hover {
+    color: blue; 
+}
